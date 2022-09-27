@@ -13,7 +13,7 @@ I also had to make each pacman bounce off any wall it hits by reversing directio
 
 ## How To Run
 
-You will need the starter code and the pacman image in order to run this factory and play the game.
+You will need the index.html, pacmen.js and the pacman images in order to run this factory and play the game.
 
 ## Roadmap To Future Improvements
 
